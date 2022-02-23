@@ -1,0 +1,10 @@
+{
+    "user":
+    {
+        "fname":"eliyahu",
+        "lname":"belay",
+        "mail":"eli@mail.com",
+        "isConnect":false,
+        "age":25
+    }
+}

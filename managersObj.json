@@ -1,0 +1,59 @@
+{
+    "managers": [
+        {
+            "fname": "eliyahu",
+            "lname": "belay",
+            "mail": "eliyahu@mail.com",
+            "payment": 9000000,
+            "listOfWorkers": [
+                "eli",
+                "beli",
+                "bom"
+            ]
+        },
+        {
+            "fname": "eliyahu",
+            "lname": "belay",
+            "mail": "eliyahu@mail.com",
+            "payment": 9000000,
+            "listOfWorkers": [
+                "eli",
+                "beli",
+                "bom"
+            ]
+        },
+        {
+            "fname": "eliyahu",
+            "lname": "belay",
+            "mail": "eliyahu@mail.com",
+            "payment": 9000000,
+            "listOfWorkers": [
+                "eli",
+                "beli",
+                "bom"
+            ]
+        },
+        {
+            "fname": "eliyahu",
+            "lname": "belay",
+            "mail": "eliyahu@mail.com",
+            "payment": 9000000,
+            "listOfWorkers": [
+                "eli",
+                "beli",
+                "bom"
+            ]
+        },
+        {
+            "fname": "eliyahu",
+            "lname": "belay",
+            "mail": "eliyahu@mail.com",
+            "payment": 9000000,
+            "listOfWorkers": [
+                "eli",
+                "beli",
+                "bom"
+            ]
+        }
+    ]
+}

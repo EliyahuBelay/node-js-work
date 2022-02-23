@@ -1,0 +1,9 @@
+{
+    "bird":
+    {
+        "name":"tuki",
+        "gender":"male",
+        "land":"israel",
+        "color":"black"
+    }
+}
